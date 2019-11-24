@@ -1,0 +1,11 @@
+C:\Users\Dzmitry_Vasilevich\source\repos\Numbers\Project_Numbers\Project_Numbers\bin\Debug\netcoreapp2.0\Project_Numbers.deps.json
+C:\Users\Dzmitry_Vasilevich\source\repos\Numbers\Project_Numbers\Project_Numbers\bin\Debug\netcoreapp2.0\Project_Numbers.runtimeconfig.json
+C:\Users\Dzmitry_Vasilevich\source\repos\Numbers\Project_Numbers\Project_Numbers\bin\Debug\netcoreapp2.0\Project_Numbers.runtimeconfig.dev.json
+C:\Users\Dzmitry_Vasilevich\source\repos\Numbers\Project_Numbers\Project_Numbers\bin\Debug\netcoreapp2.0\Project_Numbers.dll
+C:\Users\Dzmitry_Vasilevich\source\repos\Numbers\Project_Numbers\Project_Numbers\bin\Debug\netcoreapp2.0\Project_Numbers.pdb
+C:\Users\Dzmitry_Vasilevich\source\repos\Numbers\Project_Numbers\Project_Numbers\obj\Debug\netcoreapp2.0\Project_Numbers.csprojAssemblyReference.cache
+C:\Users\Dzmitry_Vasilevich\source\repos\Numbers\Project_Numbers\Project_Numbers\obj\Debug\netcoreapp2.0\Project_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitry_Vasilevich\source\repos\Numbers\Project_Numbers\Project_Numbers\obj\Debug\netcoreapp2.0\Project_Numbers.AssemblyInfoInputs.cache
+C:\Users\Dzmitry_Vasilevich\source\repos\Numbers\Project_Numbers\Project_Numbers\obj\Debug\netcoreapp2.0\Project_Numbers.AssemblyInfo.cs
+C:\Users\Dzmitry_Vasilevich\source\repos\Numbers\Project_Numbers\Project_Numbers\obj\Debug\netcoreapp2.0\Project_Numbers.dll
+C:\Users\Dzmitry_Vasilevich\source\repos\Numbers\Project_Numbers\Project_Numbers\obj\Debug\netcoreapp2.0\Project_Numbers.pdb
