@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Text;
 
 namespace Project_Numbers
@@ -29,20 +30,20 @@ namespace Project_Numbers
 
             var sb = new StringBuilder();
             for (int i = 0; i <= 100; i++)
-            {                
+            {
                 if (i % multiplicity1 == 0)
                 {
-                    string output = String.Format($"{i} {word1}");
+                    string output = $"{i} {word1}";
                     sb.AppendLine(output);
                 }
                 else if (i % multiplicity2 == 0)
                 {
-                    string output = String.Format($"{i} {word2}");
+                    string output = $"{i} {word2}";
                     sb.AppendLine(output);
                 }
                 else if (i % multiplicity3 == 0)
                 {
-                    string output = String.Format($"{i} {word3}");
+                    string output = $"{i} {word3}";
                     sb.AppendLine(output);
                 }
                 else
