@@ -12,20 +12,17 @@ namespace Project_Numbers
             {
                 if (i % 3 == 0 && i % 5 == 0)
                 {
-                    string output = String.Format("{0} {1}",
-                               i, " FizzBuzz");
+                    string output = String.Format($"{i} FizzBuzz");
                     sb.AppendLine(output);
                 }
                 else if (i % 5 == 0)
                 {
-                    string output = String.Format("{0} {1}",
-                              i, " Buzz");
+                    string output = String.Format($"{i} Buzz");
                     sb.AppendLine(output);
                 }
                 else if (i % 3 == 0)
                 {
-                    string output = String.Format("{0} {1}",
-                             i, " Fizz");
+                    string output = String.Format($"{i} Fizz");
                     sb.AppendLine(output);
                 }
                 else
